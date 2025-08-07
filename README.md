@@ -1,2 +1,3 @@
 # GPT Notes
-Hi, hello!
+Welcome to **GPT Notes**!
+Here, you'll see ***links of documents (no css)***. And that's the *replies of chatgpt* for a specific question.
